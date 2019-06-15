@@ -1,0 +1,6 @@
+2019/06/12-20:27:24.938 543 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/06/12-20:27:24.938 543 Recovering log #3
+2019/06/12-20:27:24.942 543 Reusing old log Session Storage/000003.log 
+2019/06/12-20:53:43.346 a5f Level-0 table #5: started
+2019/06/12-20:53:43.357 a5f Level-0 table #5: 16662 bytes OK
+2019/06/12-20:53:43.364 a5f Delete type=0 #3

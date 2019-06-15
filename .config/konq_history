@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://www.cnn.com/,https://www.google.com/search?q=aur+install+brave&ie=UTF-8
+ComboIconCache[$e]=https://www.cnn.com/,text-html,https://www.google.com/search?q=aur+install+brave&ie=UTF-8,text-html

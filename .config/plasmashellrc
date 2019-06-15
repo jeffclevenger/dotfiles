@@ -1,0 +1,30 @@
+[Containments][25][General]
+AppletOrder=28
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_user_manager.desktop,1 services_terminator.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaTransientsConfig]
+PreloadWeight=34
+
+[PlasmaViews][Panel 18][Horizontal1600]
+thickness=36
+
+[PlasmaViews][Panel 2]
+alignment=1
+
+[PlasmaViews][Panel 2][Horizontal1600]
+thickness=36
+
+[PlasmaViews][Panel 25][Horizontal1600]
+thickness=27
+
+[PlasmaViews][Panel 25][Vertical900]
+thickness=30
+
+[ScreenConnectors]
+0=LVDS1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
