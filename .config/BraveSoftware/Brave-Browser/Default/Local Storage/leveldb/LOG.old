@@ -1,0 +1,146 @@
+2019/06/12-20:27:25.235 53f Reusing MANIFEST leveldb/MANIFEST-000001
+2019/06/12-20:27:25.237 53f Recovering log #8
+2019/06/12-20:27:25.240 53f Level-0 table #11: started
+2019/06/12-20:27:25.251 53f Level-0 table #11: 57545 bytes OK
+2019/06/12-20:27:25.256 53f Delete type=0 #8
+2019/06/12-20:32:03.487 561 Level-0 table #14: started
+2019/06/12-20:32:03.505 561 Level-0 table #14: 162031 bytes OK
+2019/06/12-20:32:03.511 561 Delete type=0 #12
+2019/06/12-20:36:08.800 7ca Level-0 table #16: started
+2019/06/12-20:36:08.822 7ca Level-0 table #16: 331606 bytes OK
+2019/06/12-20:36:08.829 7ca Delete type=0 #13
+2019/06/12-20:36:08.830 7d0 Compacting 4@0 + 1@1 files
+2019/06/12-20:36:08.855 7d0 Generated table #17@0: 17 keys, 390417 bytes
+2019/06/12-20:36:08.855 7d0 Compacted 4@0 + 1@1 files => 390417 bytes
+2019/06/12-20:36:08.863 7d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-20:36:08.864 7d0 Delete type=2 #7
+2019/06/12-20:36:08.865 7d0 Delete type=2 #16
+2019/06/12-20:36:08.865 7d0 Delete type=2 #11
+2019/06/12-20:36:08.866 7d0 Delete type=2 #9
+2019/06/12-20:36:08.866 7d0 Delete type=2 #14
+2019/06/12-20:40:51.931 987 Level-0 table #19: started
+2019/06/12-20:40:51.952 987 Level-0 table #19: 333592 bytes OK
+2019/06/12-20:40:51.958 987 Delete type=0 #15
+2019/06/12-20:59:19.969 afa Level-0 table #21: started
+2019/06/12-20:59:19.982 afa Level-0 table #21: 58589 bytes OK
+2019/06/12-20:59:19.988 afa Delete type=0 #18
+2019/06/12-20:59:27.750 afa Level-0 table #23: started
+2019/06/12-20:59:27.768 afa Level-0 table #23: 57545 bytes OK
+2019/06/12-20:59:27.777 afa Delete type=0 #20
+2019/06/12-21:12:02.627 b4e Level-0 table #25: started
+2019/06/12-21:12:02.639 b4e Level-0 table #25: 57545 bytes OK
+2019/06/12-21:12:02.645 b4e Delete type=0 #22
+2019/06/12-21:12:02.645 b5f Compacting 4@0 + 1@1 files
+2019/06/12-21:12:02.669 b5f Generated table #26@0: 44 keys, 391325 bytes
+2019/06/12-21:12:02.669 b5f Compacted 4@0 + 1@1 files => 391325 bytes
+2019/06/12-21:12:02.675 b5f compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-21:12:02.676 b5f Delete type=2 #23
+2019/06/12-21:12:02.676 b5f Delete type=2 #19
+2019/06/12-21:12:02.677 b5f Delete type=2 #17
+2019/06/12-21:12:02.678 b5f Delete type=2 #25
+2019/06/12-21:12:02.678 b5f Delete type=2 #21
+2019/06/12-21:25:05.842 d34 Level-0 table #28: started
+2019/06/12-21:25:05.853 d34 Level-0 table #28: 68330 bytes OK
+2019/06/12-21:25:05.859 d34 Delete type=0 #24
+2019/06/12-21:25:24.974 d34 Level-0 table #30: started
+2019/06/12-21:25:24.986 d34 Level-0 table #30: 57545 bytes OK
+2019/06/12-21:25:24.994 d34 Delete type=0 #27
+2019/06/12-21:25:34.971 bbe Level-0 table #32: started
+2019/06/12-21:25:34.982 bbe Level-0 table #32: 57545 bytes OK
+2019/06/12-21:25:34.988 bbe Delete type=0 #29
+2019/06/12-21:28:23.399 da4 Level-0 table #34: started
+2019/06/12-21:28:23.412 da4 Level-0 table #34: 57545 bytes OK
+2019/06/12-21:28:23.419 da4 Delete type=0 #31
+2019/06/12-21:28:23.419 da3 Compacting 4@0 + 1@1 files
+2019/06/12-21:28:23.444 da3 Generated table #35@0: 75 keys, 399968 bytes
+2019/06/12-21:28:23.444 da3 Compacted 4@0 + 1@1 files => 399968 bytes
+2019/06/12-21:28:23.451 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-21:28:23.452 da3 Delete type=2 #30
+2019/06/12-21:28:23.452 da3 Delete type=2 #28
+2019/06/12-21:28:23.453 da3 Delete type=2 #32
+2019/06/12-21:28:23.453 da3 Delete type=2 #34
+2019/06/12-21:28:23.454 da3 Delete type=2 #26
+2019/06/12-21:28:45.813 db2 Level-0 table #37: started
+2019/06/12-21:28:45.833 db2 Level-0 table #37: 57545 bytes OK
+2019/06/12-21:28:45.841 db2 Delete type=0 #33
+2019/06/12-21:44:39.975 46d2 Level-0 table #39: started
+2019/06/12-21:44:39.987 46d2 Level-0 table #39: 58889 bytes OK
+2019/06/12-21:44:39.994 46d2 Delete type=0 #36
+2019/06/12-21:44:45.245 46ab Level-0 table #41: started
+2019/06/12-21:44:45.257 46ab Level-0 table #41: 57545 bytes OK
+2019/06/12-21:44:45.264 46ab Delete type=0 #38
+2019/06/12-21:44:55.990 46ab Level-0 table #43: started
+2019/06/12-21:44:56.002 46ab Level-0 table #43: 57545 bytes OK
+2019/06/12-21:44:56.008 46ab Delete type=0 #40
+2019/06/12-21:44:56.009 4717 Compacting 4@0 + 1@1 files
+2019/06/12-21:44:56.034 4717 Generated table #44@0: 75 keys, 400190 bytes
+2019/06/12-21:44:56.034 4717 Compacted 4@0 + 1@1 files => 400190 bytes
+2019/06/12-21:44:56.041 4717 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-21:44:56.042 4717 Delete type=2 #35
+2019/06/12-21:44:56.042 4717 Delete type=2 #41
+2019/06/12-21:44:56.043 4717 Delete type=2 #39
+2019/06/12-21:44:56.043 4717 Delete type=2 #43
+2019/06/12-21:44:56.044 4717 Delete type=2 #37
+2019/06/12-21:51:25.517 46ab Level-0 table #46: started
+2019/06/12-21:51:25.532 46ab Level-0 table #46: 57545 bytes OK
+2019/06/12-21:51:25.538 46ab Delete type=0 #42
+2019/06/12-21:52:39.751 46ab Level-0 table #48: started
+2019/06/12-21:52:39.762 46ab Level-0 table #48: 57545 bytes OK
+2019/06/12-21:52:39.768 46ab Delete type=0 #45
+2019/06/12-21:54:14.110 46ab Level-0 table #50: started
+2019/06/12-21:54:14.132 46ab Level-0 table #50: 57545 bytes OK
+2019/06/12-21:54:14.140 46ab Delete type=0 #47
+2019/06/12-21:54:20.338 495d Level-0 table #52: started
+2019/06/12-21:54:20.353 495d Level-0 table #52: 57545 bytes OK
+2019/06/12-21:54:20.360 495d Delete type=0 #49
+2019/06/12-21:54:20.361 46ab Compacting 4@0 + 1@1 files
+2019/06/12-21:54:20.387 46ab Generated table #53@0: 75 keys, 400190 bytes
+2019/06/12-21:54:20.387 46ab Compacted 4@0 + 1@1 files => 400190 bytes
+2019/06/12-21:54:20.393 46ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-21:54:20.394 46ab Delete type=2 #46
+2019/06/12-21:54:20.394 46ab Delete type=2 #52
+2019/06/12-21:54:20.395 46ab Delete type=2 #48
+2019/06/12-21:54:20.395 46ab Delete type=2 #44
+2019/06/12-21:54:20.396 46ab Delete type=2 #50
+2019/06/12-21:54:50.406 495d Level-0 table #55: started
+2019/06/12-21:54:50.418 495d Level-0 table #55: 57545 bytes OK
+2019/06/12-21:54:50.424 495d Delete type=0 #51
+2019/06/12-21:55:27.626 495d Level-0 table #57: started
+2019/06/12-21:55:27.639 495d Level-0 table #57: 57545 bytes OK
+2019/06/12-21:55:27.645 495d Delete type=0 #54
+2019/06/12-21:55:35.059 495d Level-0 table #59: started
+2019/06/12-21:55:35.074 495d Level-0 table #59: 57545 bytes OK
+2019/06/12-21:55:35.081 495d Delete type=0 #56
+2019/06/12-22:12:49.294 590b Level-0 table #61: started
+2019/06/12-22:12:49.304 590b Level-0 table #61: 57545 bytes OK
+2019/06/12-22:12:49.310 590b Delete type=0 #58
+2019/06/12-22:12:49.310 5866 Compacting 4@0 + 1@1 files
+2019/06/12-22:12:49.343 5866 Generated table #62@0: 75 keys, 400190 bytes
+2019/06/12-22:12:49.344 5866 Compacted 4@0 + 1@1 files => 400190 bytes
+2019/06/12-22:12:49.350 5866 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-22:12:49.351 5866 Delete type=2 #55
+2019/06/12-22:12:49.351 5866 Delete type=2 #61
+2019/06/12-22:12:49.352 5866 Delete type=2 #59
+2019/06/12-22:12:49.352 5866 Delete type=2 #57
+2019/06/12-22:12:49.352 5866 Delete type=2 #53
+2019/06/12-22:13:21.967 5866 Level-0 table #64: started
+2019/06/12-22:13:21.977 5866 Level-0 table #64: 58214 bytes OK
+2019/06/12-22:13:21.982 5866 Delete type=0 #60
+2019/06/12-22:13:27.693 58f1 Level-0 table #66: started
+2019/06/12-22:13:27.709 58f1 Level-0 table #66: 57545 bytes OK
+2019/06/12-22:13:27.715 58f1 Delete type=0 #63
+2019/06/12-22:20:17.861 5992 Level-0 table #68: started
+2019/06/12-22:20:17.873 5992 Level-0 table #68: 58067 bytes OK
+2019/06/12-22:20:17.879 5992 Delete type=0 #65
+2019/06/12-22:44:13.151 5f63 Level-0 table #70: started
+2019/06/12-22:44:13.168 5f63 Level-0 table #70: 64498 bytes OK
+2019/06/12-22:44:13.175 5f63 Delete type=0 #67
+2019/06/12-22:44:13.175 5f28 Compacting 4@0 + 1@1 files
+2019/06/12-22:44:13.200 5f28 Generated table #71@0: 121 keys, 406242 bytes
+2019/06/12-22:44:13.200 5f28 Compacted 4@0 + 1@1 files => 406242 bytes
+2019/06/12-22:44:13.207 5f28 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/12-22:44:13.207 5f28 Delete type=2 #68
+2019/06/12-22:44:13.208 5f28 Delete type=2 #66
+2019/06/12-22:44:13.208 5f28 Delete type=2 #70
+2019/06/12-22:44:13.209 5f28 Delete type=2 #62
+2019/06/12-22:44:13.209 5f28 Delete type=2 #64

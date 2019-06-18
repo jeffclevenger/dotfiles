@@ -1,0 +1,7 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=jeffclevenger@protonmail.com
+FullName=Clevenger
+ServerType=

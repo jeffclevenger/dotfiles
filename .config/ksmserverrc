@@ -1,0 +1,23 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=terminator
+count=1
+
+[Session: saved at previous logout]
+clientId1=10dbe36e69000156029985100000008750006
+clientId2=10dbe36e69000156030908600000007280006
+count=2
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10dbe36e69000156029985100000008750006_1560398041_745395
+program1=/usr/bin/kwin_x11
+program2=pulseaudio
+restartCommand1=/usr/bin/kwin_x11,-session,10dbe36e69000156029985100000008750006_1560398041_745395
+restartCommand2=
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=clevenger
+userId2=clevenger
+wasWm1=true
+wasWm2=false
